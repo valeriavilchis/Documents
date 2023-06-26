@@ -46,4 +46,5 @@ __Los routers son la columna vertebral de internet debido a que trabajan con el 
 
 ## Dispositivos de capas superiores
 
-- Firewalls: protege los recursos de una red de los usuarios.
+- Firewalls: protege los recursos de una red de los usuarios de otras redes, ya que el firewall examina los paquetes de la red y determina si es seguro que los datos entren o salgan de la red.  
+El firewall puede ser tanto un dispositivo de hardware, como un programa (software).
