@@ -45,7 +45,7 @@ Dicha organización dejó de operar en febrero del 2011.
 - Institute of Electrical and Electronics Engineers (IEEE) o Instituto de Ingeniería Eléctrica y Electrónica: es una asociacion internacional de profesionistas que abarca una gran diversidad de áreas técnicas relacionadas con la ingeniería electrónica y eléctrica.   
 - El IEEE ha desarrollado una serie de estandares relacionados con el cableado y topologia de LANS (IEEE 802.X), los cuales son ampliamente reconocidos y adoptados incluso por otro organismos internacionales, como la ISO.
 
-- european Committee for Standardization (CEN) o Comité Europeo de Normalización: es una organizacion pública sin ánimo de lucro dedicada a fomentar la economía en Europa a través del desarrollo, mantenimiento y distribución de estándares y especificaciones.
+- European Committee for Standardization (CEN) o Comité Europeo de Normalización: es una organizacion pública sin ánimo de lucro dedicada a fomentar la economía en Europa a través del desarrollo, mantenimiento y distribución de estándares y especificaciones.
 
 - European Commite for Electrotechnical Standardization (CENELEC) o Comité Europeo para la Estandarizacion Electrotécnica: es una organizacion sin animo de lucro que desarrolla estandares electrotecnicos para Europa. Sus estándares están basados en los estándares internacionales adoptados por el ISO. Forma parte del sistema europeo de normalizaciones técnicas.
 
